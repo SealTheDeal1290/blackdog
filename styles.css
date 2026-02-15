@@ -152,25 +152,25 @@ a {
 
 .project-cbrn {
   background:
-    radial-gradient(circle at 10% 22%, rgba(102, 181, 114, 0.07), transparent 60%),
+    radial-gradient(circle at 10% 22%, rgba(102, 181, 114, 0.04), transparent 62%),
     linear-gradient(160deg, #1b211c 0%, #101310 72%);
 }
 
 .project-darklands {
   background:
-    radial-gradient(circle at 10% 22%, rgba(185, 128, 84, 0.07), transparent 60%),
+    radial-gradient(circle at 10% 22%, rgba(185, 128, 84, 0.04), transparent 62%),
     linear-gradient(160deg, #211915 0%, #110f0d 72%);
 }
 
 .project-wh40k {
   background:
-    radial-gradient(circle at 10% 22%, rgba(149, 112, 206, 0.07), transparent 60%),
+    radial-gradient(circle at 10% 22%, rgba(149, 112, 206, 0.04), transparent 62%),
     linear-gradient(160deg, #1b1922 0%, #100f14 72%);
 }
 
 .project-artha {
   background:
-    radial-gradient(circle at 10% 22%, rgba(190, 92, 106, 0.07), transparent 60%),
+    radial-gradient(circle at 10% 22%, rgba(190, 92, 106, 0.04), transparent 62%),
     linear-gradient(160deg, #21181c 0%, #110d10 72%);
 }
 
